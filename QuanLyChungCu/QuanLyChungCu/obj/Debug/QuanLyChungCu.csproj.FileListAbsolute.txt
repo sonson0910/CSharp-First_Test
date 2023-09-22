@@ -1,0 +1,10 @@
+D:\C#\UTC\Bai1_1\KiemTra\QuanLyChungCu\QuanLyChungCu\bin\Debug\QuanLyChungCu.exe.config
+D:\C#\UTC\Bai1_1\KiemTra\QuanLyChungCu\QuanLyChungCu\bin\Debug\QuanLyChungCu.exe
+D:\C#\UTC\Bai1_1\KiemTra\QuanLyChungCu\QuanLyChungCu\bin\Debug\QuanLyChungCu.pdb
+D:\C#\UTC\Bai1_1\KiemTra\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.AssemblyReference.cache
+D:\C#\UTC\Bai1_1\KiemTra\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Form1.resources
+D:\C#\UTC\Bai1_1\KiemTra\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Properties.Resources.resources
+D:\C#\UTC\Bai1_1\KiemTra\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.GenerateResource.cache
+D:\C#\UTC\Bai1_1\KiemTra\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.CoreCompileInputs.cache
+D:\C#\UTC\Bai1_1\KiemTra\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.exe
+D:\C#\UTC\Bai1_1\KiemTra\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.pdb
